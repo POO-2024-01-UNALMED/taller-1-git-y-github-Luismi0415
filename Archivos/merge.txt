@@ -1,1 +1,3 @@
-
+Aunque no es usual crear archivos desde el github, cuando ya se tiene un archivo existente en la carpeta que cree anteriormente,
+no me genera ningun tipo de error, y ya con la carpeta no vacia, me deja subir el commit sin ningun tipo de problema, la verdad nunca habia 
+subido un archivo desde el propio github, pero funciono correctamente y no me genero ningun tipo de error
