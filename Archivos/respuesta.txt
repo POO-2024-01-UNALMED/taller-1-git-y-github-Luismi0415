@@ -1,0 +1,2 @@
+Me aparecio un error al crear la carpeta, y sinceramente no se porque, lo que hice fue como guardar cambios y cuando cree el commit la carpeta,  
+no se me actualizaba en el github
