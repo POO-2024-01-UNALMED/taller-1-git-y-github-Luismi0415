@@ -1,2 +1,2 @@
 Me aparecio un error al crear la carpeta, y sinceramente no se porque, lo que hice fue como guardar cambios y cuando cree el commit la carpeta,  
-no se me actualizaba en el github
+no se me actualizaba en el github, aunque me di cuenta que para que una carpeta aparezca no puede estar vacia
