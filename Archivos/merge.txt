@@ -1,1 +1,1 @@
-
+Ahora si puedo crear un archivo porque la carpeta no aparece como carpeta vacia, y no me genera ningun tipo de error
