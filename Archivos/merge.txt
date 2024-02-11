@@ -1,1 +1,5 @@
-Ahora si puedo crear un archivo porque la carpeta no aparece como carpeta vacia, y no me genera ningun tipo de error
+Ahora si puedo crear un archivo porque la carpeta no aparece como carpeta vacia, y no me genera ningun tipo de error.
+
+Hay que tener cuidado al modificar al mismo tiempo dos archivos, porque al guardar cambios y al hacer el push, nos daria un error 
+porque el github, no admite que dos archivos con el mismo nombre se este trabajando simultaneamente, entonces hay que tener
+responsabilidad al usar este tipo de rutas
